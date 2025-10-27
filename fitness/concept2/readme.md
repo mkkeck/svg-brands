@@ -37,7 +37,7 @@ dimensions 873×100
 ## App / Software-Symbol
 <img src="concept2-symbol.svg" alt="Original logo" width="100"/><br/>
 `concept2-symbol.svg`,
-multicolored,
+single-colored acid-green,
 dimensions 100×100
 
 <img src="concept2-symbol--black.svg" alt="Logo in black" width="100"/><br/>
