@@ -10,7 +10,7 @@ Ping-Pong Tables, Table Tennis Tables
 
 <img src="cornilleau--hor.svg" alt="Original logo" width="200"/><br/>
 `cornilleau--hor.svg`,
-multicolored,
+single-colored gray,
 dimensions 489×100
 
 <img src="cornilleau--hor-black.svg" alt="Logo in black" width="200"/><br/>
@@ -27,7 +27,7 @@ dimensions 489×100
 
 <img src="cornilleau--ver.svg" alt="Original logo" width="200"/><br/>
 `cornilleau--ver.svg`,
-multicolored,
+single-colored gray,
 dimensions 198×100
 
 <img src="cornilleau--ver-black.svg" alt="Logo in black" width="200"/><br/>
