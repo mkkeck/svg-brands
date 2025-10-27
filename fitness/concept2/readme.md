@@ -6,7 +6,7 @@ https://www.concept2.com/
 
 ## Corporate Logo
 
-<img src="concept2.svg" alt="Original logo" width=3200"/><br/>
+<img src="concept2.svg" alt="Original logo" width="300"/><br/>
 `concept2.svg`,
 multicolored,
 for light backgrounds,
