@@ -4,7 +4,7 @@ Go-karts and Trampolines
 https://www.dino-cars.de/
 
 
-## Corporate Logo
+## Logo
 
 <img src="dino-cars.svg" alt="Original logo" width="300"/><br/>
 `dino-cars.svg`,
