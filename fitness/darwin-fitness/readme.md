@@ -4,7 +4,7 @@ Evolution of Fitness.
 https://www.darwin-fitness.de/
 
 
-## Brand Mark
+## Logo
  
 <img src="darwin-fitness-germany.svg" alt="Original brandmark" width="200"/><br/>
 `darwin-fitness-germany.svg`,
