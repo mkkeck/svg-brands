@@ -4,7 +4,7 @@ Tapes, Bands, Expander
 https://deuser-sports.de/
 
 
-## Corporate Logo
+## Logo
 
 <img src="deuser-sports.svg" alt="Original logo" width="300"/><br/>
 `deuser-sports.svg`,

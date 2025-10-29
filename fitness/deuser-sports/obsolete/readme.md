@@ -4,7 +4,7 @@ Tapes, Bands, Expander
 **Obsolete logos and brands for archiving**
 
 
-## Corporate Logo
+## Logo
 
 <img src="deuser-sports.svg" alt="Original logo" width="300"/><br/>
 `deuser-sports.svg`,
