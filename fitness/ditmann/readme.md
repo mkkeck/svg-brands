@@ -19,4 +19,3 @@ dimensions 196×100
 `dittmann--white.svg`,
 single-colored white,
 dimensions 196×100
-~~~~
