@@ -17,7 +17,9 @@ single-colored white,
 dimensions 1665×100
 
 
-## Branbnd: Flexi-Bar
+## Brand
+
+### Flexi-Bar
 
 <img src="flexi-bar.svg" alt="Logo in black" width="300"/><br/>
 `flexi-bar.svg`,
