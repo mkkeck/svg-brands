@@ -4,7 +4,7 @@ Calisthenics and unconventional kit for gym, home, on the go
 https://gravity.fitness/
 
 
-# Logo
+## Logo
 
 <img src="gravity-fitness.svg" alt="Logo in black" width="300"/><br/>
 `gravity-fitness.svg`,
