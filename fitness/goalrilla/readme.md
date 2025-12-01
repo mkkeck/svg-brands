@@ -5,9 +5,9 @@ https://www.goalrilla.com/
 A Brand of [Escalade Sports](https://www.escaladesports.com/)
 
 
-# Logo
+## Logo
 
-## Horizontal
+### Horizontal
 
 <img src="goalrilla--hor.svg" alt="Original logo" width="300"/><br/>
 `goalrilla--hor.svg`,  
@@ -30,7 +30,7 @@ single-colored white,
 dimensions 473×100
 
 
-## Vertical
+### Vertical
 
 <img src="goalrilla--ver.svg" alt="Original logo" width="300"/><br/>
 `goalrilla--ver.svg`,  
