@@ -4,7 +4,7 @@ Gym Equipment: Olympic bars, curl bars, short bars, weight plates
 https://gungnirofnorway.com/
 
 
-# Logo
+## Logo
 
 <img src="gungnir-of-norway.svg" alt="Logo in black" width="300"/><br/>
 `gungnir-of-norway.svg`,  
