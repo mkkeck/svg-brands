@@ -30,7 +30,7 @@ dimensions 604×100
 
 ## Brands
 
-### Hamer Boxing
+### Hammer Boxing
 
 <img src="hammer-boxing.svg" alt="Logo in black" width="300"/><br/>
 `hammer-boxing.svg`,
@@ -114,8 +114,8 @@ dimensions 473×100
 
 ## Mikasa
 
-General distributor of the Olympic volleyball brand MIKASA  
-https://www.mikasa.de/
+**Hammer is the general distributor** of the Olympic volleyball brand **MIKASA** 
+in Germany and Austria (https://www.mikasa.de/)
 
 
 <img src="mikasa-by-hammer.svg" alt="Original logo" width="300"/><br/>
