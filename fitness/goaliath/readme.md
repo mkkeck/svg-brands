@@ -5,7 +5,7 @@ https://www.goalrilla.com/
 A Brand of [Escalade Sports](https://www.escaladesports.com/)  
 
 
-# Logo
+## Logo
 
 <img src="goaliath.svg" alt="Original logo" width="300"/><br/>
 `goaliath.svg`,
