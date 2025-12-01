@@ -4,7 +4,7 @@ Functional Training and exercise equipment
 https://gymbox.de/
 
 
-# Logo
+## Logo
 
 
 <img src="gymbox.svg" alt="Logo in black" width="300"/><br/>
