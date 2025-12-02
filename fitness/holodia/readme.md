@@ -77,7 +77,6 @@ dimensions 100×100
 
 ## Holofit
 
-
 ### Horizontal
 
 <img src="holofit--hor.svg" alt="Original logo" width="300"/><br/>
