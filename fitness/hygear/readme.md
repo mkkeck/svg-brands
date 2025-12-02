@@ -1,6 +1,6 @@
 # Hygear
 
-Smart fitness gear and personalized programs to build lasting healthy habits
+Smart fitness gear and personalized programs to build lasting healthy habits  
 https://hygearfit.com/
 
 
