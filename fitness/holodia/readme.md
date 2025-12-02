@@ -14,17 +14,17 @@ multicolored for light backgrounds,
 dimensions 464×100
 
 <img src="holodia--hor-light.svg" alt="Light-colored logo" width="300"/><br/>
-`holodia--hor--light.svg`,
+`holodia--hor-light.svg`,
 multicolored for dark backgrounds,
 dimensions 464×100
 
 <img src="holodia--hor-black.svg" alt="Logo in black" width="300"/><br/>
-`holodia--hor--black.svg`,
+`holodia--hor-black.svg`,
 single-colored black,
 dimensions 464×100
 
 <img src="holodia--hor-white.svg" alt="Logo in white" width="300"/><br/>
-`holodia--hor--white.svg`,
+`holodia--hor-white.svg`,
 single-colored white,
 dimensions 464×100
 
@@ -85,17 +85,17 @@ multicolored for light backgrounds,
 dimensions 464×100
 
 <img src="holofit--hor-light.svg" alt="Light-colored logo" width="300"/><br/>
-`holofit--hor--light.svg`,
+`holofit--hor-light.svg`,
 multicolored for dark backgrounds,
 dimensions 464×100
 
 <img src="holofit--hor-black.svg" alt="Logo in black" width="300"/><br/>
-`holofit--hor--black.svg`,
+`holofit--hor-black.svg`,
 single-colored black,
 dimensions 464×100
 
 <img src="holofit--hor-white.svg" alt="Logo in white" width="300"/><br/>
-`holofit--hor--white.svg`,
+`holofit--hor-white.svg`,
 single-colored white,
 dimensions 464×100
 
