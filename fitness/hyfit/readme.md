@@ -1,6 +1,6 @@
 # Hyfit
 
-**HYFIT is now [HYGEAR](../hygear-fit)**  
+**HYFIT is now [HYGEAR](../hygear)**  
 Wearable Gym - 21st Century Workout Gear
 
 
