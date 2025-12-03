@@ -4,7 +4,7 @@ Fitness App & Wellness Programs Inspired by Chris Hemsworth.
 https://centr.com/
 
 
-## Corporate Logo
+## Logo
 
 ### Horizontal
 
@@ -29,6 +29,18 @@ dimensions 119×100
 `centr--ver-light.svg`,
 single-colored white,
 dimensions 119×100
+
+### Brandmark
+
+<img src="centr--brandmark.svg" alt="Brandmark in black" width="200"/><br/>
+`centr--brandmark.svg`,
+single-colored black,
+dimensions 109×100
+
+<img src="centr--brandmark-light.svg" alt="Brandmark in white" width="200"/><br/>
+`centr--brandmark-light.svg`,
+single-colored white,
+dimensions 109×100
 
 
 ## HYROX
