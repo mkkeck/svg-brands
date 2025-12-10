@@ -1,5 +1,6 @@
 # Men's Health
-Fitness & Lifestyle für aktive Männer  
+Fitness, Nutrition, Health, Livestyle for Men  
+https://www.menshealth.com/  
 https://www.menshealth.de/  
 
 
