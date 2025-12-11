@@ -1,10 +1,36 @@
-# BowFlex
+# BowFlex / Nautilus
 
 Home Exercise Equipment – Bikes, Home Gyms, Treadmills.  
 **Obsolete logos and brands for archiving**
 
+BowFlex underwent repositioning in the year **2023**, changing its name from 
+**Nautilus** to **BowFlex** to place more emphasis on its strongest brand.
 
-## Prior to 2023
+
+## Nautilus
+
+<img src="nautilus.svg" alt="Original logo" width="300"/><br/>
+`nautilus.svg`,
+multicolored for light backgrounds,
+dimensions 443×100
+
+<img src="nautilus--light.svg" alt="Light-colored logo" width="300"/><br/>
+`nautilus--light.svg`,
+multicolored for dark backgrounds,
+dimensions 443×100
+
+<img src="nautilus--black.svg" alt="Logo in black" width="300"/><br/>
+`nautilus--black.svg`,
+single-colored black,
+dimensions 443×100
+
+<img src="nautilus--white.svg" alt="Logo in white" width="300"/><br/>
+`nautilus--white.svg`,
+single-colored white,
+dimensions 443×100
+
+
+## BowFlex
 
 ### Horizontal
 
@@ -29,7 +55,6 @@ dimensions 895×100
 `bowflex--hor-white.svg`,
 single-colored white,
 dimensions 895×100
-
 
 ### Vertical
 
