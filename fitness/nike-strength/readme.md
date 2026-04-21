@@ -9,9 +9,9 @@ https://nikestrength.com/
 <img src="nike-strength.svg" alt="Logo in black" width="300"/><br/>
 `nike-strength.svg`,
 single-colored black,
-dimensions width×100
+dimensions 296×100
 
 <img src="nike-strength--light.svg" alt="Logo in white" width="300"/><br/>
 `nike-strength--light.svg`,
 single-colored white,
-dimensions width×100
+dimensions 296×100
