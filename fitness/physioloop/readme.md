@@ -20,7 +20,7 @@ dimensions 592×100
 single-colored black,
 dimensions 592×100
 
-<img src="physioloop--white.svg" alt="Logo in black" width="300"/><br/>
+<img src="physioloop--white.svg" alt="Logo in white" width="300"/><br/>
 `physioloop--white.svg`,
 single-colored white,
 dimensions 592×100
