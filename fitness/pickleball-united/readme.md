@@ -15,7 +15,7 @@ dimensions 275×100
 single-colored black,
 dimensions 275×100
 
-<img src="pickleball-united--white.svg" alt="Logo in black" width="300"/><br/>
+<img src="pickleball-united--white.svg" alt="Logo in white" width="300"/><br/>
 `pickleball-united--white.svg`,
 single-colored white,
 dimensions 275×100
