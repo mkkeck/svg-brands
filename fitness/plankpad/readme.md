@@ -16,7 +16,7 @@ dimensions 524×100
 single-colored black,
 dimensions 524×100
 
-<img src="plankpad--white.svg" alt="Logo in black" width="300"/><br/>
+<img src="plankpad--white.svg" alt="Logo in white" width="300"/><br/>
 `plankpad--white.svg`,
 single-colored white,
 dimensions 524×100
@@ -34,7 +34,7 @@ dimensions 325×100
 single-colored black,
 dimensions 325×100
 
-<img src="plankpad-slogan--white.svg" alt="Logo in black" width="300"/><br/>
+<img src="plankpad-slogan--white.svg" alt="Logo in white" width="300"/><br/>
 `plankpad-slogan--white.svg`,
 single-colored white,
 dimensions 325×100
