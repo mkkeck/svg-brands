@@ -5,6 +5,7 @@ Sports Wear – https://www.reebok.eu/
 
 ## Logo
 
+**Obsolete logos and brands for archiving**
 
 ### 2019 - 2022
 
